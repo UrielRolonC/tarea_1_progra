@@ -1,0 +1,5 @@
+#calcule el perimetro y área de un cuadrado, preguntando los lados
+Lado: int= input(print(¿Cuánto mide el lado del cuadrado?))
+area: int= Lado * Lado
+Perimetro: int= lado + lado + lado + lado
+print(f"el Área del cuadrado es {area} y su perimetro es {Perimetro}")
